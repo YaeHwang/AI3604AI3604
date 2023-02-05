@@ -1,2 +1,2 @@
-# AI3604AI3604
+# AI3604CV
 SJTU AI3604 Computer Vison
